@@ -1,9 +1,9 @@
 
 ## **Configure seu projeto**
-* [Etapa 1: Configurar a tokenização de pagamento](https://docs.mundipagg.com/v1/docs/google-paytm#section--etapa-1-configurar-a-tokeniza-o-de-pagamento-)
-* [Etapa 2: Definir o ambiente de teste](https://docs.mundipagg.com/v1/docs/google-paytm#section--etapa-2-definir-o-ambiente-de-teste-)
-* [Etapa 3: Definir as redes de cartões de pagamento compatíveis](https://docs.mundipagg.com/v1/docs/google-paytm#section--etapa-3-definir-as-redes-de-cart-es-de-pagamento-compat-veis-)
-* [Etapa 4: Descrever as formas de pagamento permitidas](https://docs.mundipagg.com/v1/docs/google-paytm#section--etapa-4-descrever-as-formas-de-pagamento-permitidas-)
+* [Etapa 1: Configurar a tokenização de pagamento](https://github.com/mundipagg/google-pay-checkout#etapa-1-configurar-a-tokeniza%C3%A7%C3%A3o-de-pagamento)
+* [Etapa 2: Definir o ambiente de teste](https://github.com/mundipagg/google-pay-checkout#etapa-2-definir-o-ambiente-de-teste)
+* [Etapa 3: Definir as redes de cartões de pagamento compatíveis](https://github.com/mundipagg/google-pay-checkout#etapa-3-definir-as-redes-de-cart%C3%B5es-de-pagamento-compat%C3%ADveis)
+* [Etapa 4: Descrever as formas de pagamento permitidas](https://github.com/mundipagg/google-pay-checkout#etapa-4-descrever-as-formas-de-pagamento-permitidas)
 
 
 ## **Etapa 1: Configurar a tokenização de pagamento**
