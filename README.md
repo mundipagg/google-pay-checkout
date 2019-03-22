@@ -65,3 +65,6 @@ a classe ***CheckoutTokenSender***  se encarregará de mapear os campos necessá
 
 **Desta forma, o cliente já estará apto a transacionar com GooglePay.**
 <center><img src="https://files.readme.io/06ae222-b8211fb-GPay-android-mock.png" width="200" height="400" /></center>
+
+
+Para saber mais sobre a integração Google Pay com a Mundipagg, [clique aqui](https://docs.mundipagg.com/v1/docs/google-pay-tm)
