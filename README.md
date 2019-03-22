@@ -35,7 +35,7 @@ public static final int PAYMENTS_ENVIRONMENT = WalletConstants.ENVIRONMENT_TEST;
 
 
 
-## **Etapa 3: Definir as redes de cartões de pagamento compatíveis **
+## Etapa 3: Definir as redes de cartões de pagamento compatíveis 
 Defina as redes de cartões que seu aplicativo aceita:
 ``` java
 public static final List<String> SUPPORTED_NETWORKS = Arrays.asList(
