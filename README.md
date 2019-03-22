@@ -63,4 +63,5 @@ A API Google Pay pode retornar cartões registrados em arquivo no Google.com.br 
 Ao final das configurações, o envio do token para a API do lojista já poderá ser testado.
 a classe ***CheckoutTokenSender***  se encarregará de mapear os campos necessários para enviar para o gateway **Mundipagg**. 
 
-Desta forma, o cliente já estará apto a transacionar com GooglePay.
+**Desta forma, o cliente já estará apto a transacionar com GooglePay.**
+<center><img src="https://files.readme.io/06ae222-b8211fb-GPay-android-mock.png" width="200" height="400" /></center>
