@@ -80,7 +80,37 @@
                 android:layout_gravity="center"
                 android:gravity="center"
                 android:text="@string/googlepay_status_checking" />
+
         </FrameLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="25px">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/googlepay_status3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="Send token to:" />
+
+                <EditText
+                    android:id="@+id/txt_sendTokenUrl"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:text="" />
+
+            </LinearLayout>
+        </ScrollView>
 
     </LinearLayout>
 
