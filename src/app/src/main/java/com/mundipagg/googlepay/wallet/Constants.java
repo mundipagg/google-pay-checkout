@@ -63,7 +63,8 @@ public class Constants {
     "DISCOVER",
     "JCB",
     "MASTERCARD",
-    "VISA");
+    "VISA",
+    "ELO");
 
   /**
    * The Google Pay API may return cards on file on Google.com (PAN_ONLY) and/or a device token on
